@@ -30,4 +30,4 @@ The most important thing to growth mindset is :
 **To know more about markdown** [click here](https://guides.github.com/features/mastering-markdown)
 
 
-**If you intrested joning to growth mindset club** [click her](https://khasawneh07.github.io/reading-notes/GrowthMindsetClub)
+**If you intrested joning to growth mindset club** [click her](https://khasawneh07.github.io/reading-notes/Growth-Mindset-Club)
