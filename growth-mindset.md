@@ -24,6 +24,6 @@ The most important thing to growth mindset is :
 
 **If you intrested joning to growth mindset club [Now](https://www.facebook.com/ASAC.LTUC/)**
 
-**Are you so excited ?! :brain: :smile:**
+**Are you so excited ?! :brain::smile:**
 
 Then you have to go to the **[next step](https://khasawneh07.github.io/reading-notes/Mastering-Markdown)**
