@@ -12,11 +12,6 @@ We can through do the practice on any issues already solved and try to solve it 
 The 2nd place how we can keep our mind like a spark ?
 We can put it in challenges starts with easy level to hard one
 
-***Big problems will get smaller and smaller if you are patient***
-
-
-![Proplems](http://img.picturequotes.com/2/4/3295/when-you-focus-on-problems-you-will-have-more-problems-when-you-focus-on-possibilities-youll-have-more-opportunities-quote-1.jpg)
-
 The last thing is not to give in under any stress or any problems you encounter
 
 The most important thing to growth mindset is :
@@ -25,7 +20,14 @@ The most important thing to growth mindset is :
 1. Obstacles
 1. Effort
 
+
+***Big problems will get smaller and smaller if you are patient***
+
+
+![Proplems](http://img.picturequotes.com/2/4/3295/when-you-focus-on-problems-you-will-have-more-problems-when-you-focus-on-possibilities-youll-have-more-opportunities-quote-1.jpg)
+
+
 **To know more about markdown** [click here](https://guides.github.com/features/mastering-markdown)
 
 
-**If you intrested joning to growth mindset club** [click her](https://github.com/Khasawneh07/reading-notes/blob/main/Growth%20Mindset%20Club.md)
+**If you intrested joning to growth mindset club** [click her](https://khasawneh07.github.io/reading-notes/GrowthMindsetClub)
