@@ -18,7 +18,7 @@ The last thing is not to give in under any stress or any problems you encounter
 
 The most important thing to growth mindset is :
 
-1- Challenges
-2- Obstacles
-3- Effort
+*1- Challenges
+*1- Obstacles
+*1- Effort
 
