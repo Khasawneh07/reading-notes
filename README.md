@@ -8,5 +8,5 @@
 
 **Your Better Chance To Train Your Brain**
 
-**[Lets Start](https://khasawneh07.github.io/reading-notes/Growth-Mindset-Club)**
+**[Lets Start](https://khasawneh07.github.io/reading-notes/growth-mindset)**
 
