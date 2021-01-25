@@ -22,5 +22,5 @@ The most important thing to growth mindset is :
 1. Obstacles
 1. Effort
 
-[To read more about growth mindset click here](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
-[If you intrested joning to growth mindset club click her](/Growth Mindset Club.md)
+**To know more about markdown** [click here](https://guides.github.com/features/mastering-markdown)
+**If you intrested joning to growth mindset club** [click her](/Growth Mindset Club.md)
