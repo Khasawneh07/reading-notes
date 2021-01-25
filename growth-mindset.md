@@ -22,6 +22,6 @@ The most important thing to growth mindset is :
 
 ![Proplems](http://img.picturequotes.com/2/4/3295/when-you-focus-on-problems-you-will-have-more-problems-when-you-focus-on-possibilities-youll-have-more-opportunities-quote-1.jpg)
 
-**If you intrested joning to growth mindset club** [click her](https://khasawneh07.github.io/reading-notes/Growth-Mindset-Club)
+**If you intrested joning to growth mindset club** [Now](https://www.facebook.com/ASAC.LTUC/)**
 
-Please press next to reach second step 
+Press next to reach second step 
