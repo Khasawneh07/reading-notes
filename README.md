@@ -16,9 +16,9 @@ We can put it in challenges starts with easy level to hard one
 
 The last thing is not to give in under any stress or any problems you encounter
 
-The most important thing to growth mindset is 
+The most important thing to growth mindset is :
 
-1-Challenges
-2-Obstacles
-3-Effort
+1- Challenges
+2- Obstacles
+3- Effort
 
