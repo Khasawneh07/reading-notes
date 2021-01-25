@@ -5,6 +5,6 @@
 The growth mindset is very very important in coding filed.
 Ths 1st place how we can keep our mind 
 
-- [ ] Finish my changes
+- [x] Finish my changes
 
 - [ ] \(Optional) Open a followup issue
