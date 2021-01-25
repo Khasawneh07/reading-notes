@@ -23,4 +23,6 @@ The most important thing to growth mindset is :
 1. Effort
 
 **To know more about markdown** [click here](https://guides.github.com/features/mastering-markdown)
+
+
 **If you intrested joning to growth mindset club** [click her](/Growth Mindset Club.md)
