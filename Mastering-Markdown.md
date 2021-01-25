@@ -14,3 +14,5 @@ What you will learn:
 
 
 **To know more about markdown** [click here](https://roachhd.gitbooks.io/master-markdown/content/)
+
+[Almost There](https://khasawneh07.github.io/reading-notes/Comprehensive-Guide)
