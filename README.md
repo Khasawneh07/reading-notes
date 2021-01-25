@@ -11,7 +11,7 @@ We can through do the practice on any issues already solved and try to solve it 
 
 The 2nd place how we can keep our mind like a spark and We can put it in challenges starts with easy level to hard one
 
-Big problems will get smaller and smaller if you are patient
+***Big problems will get smaller and smaller if you are patient***
 
 The last thing is not to give in under any stress or any problems you encounter
 
