@@ -1,6 +1,6 @@
 # Growth Mindset Club 
 
-## Congratulations, you have reached to where you will start your first steps on to Growth your Mind
+## Congratulations, you have reached where will start your first step on to Growth your Mind
 
 **Are you so excited? Don't wait, [click here](https://www.facebook.com/ASAC.LTUC/)**
 
