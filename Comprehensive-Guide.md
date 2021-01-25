@@ -1,4 +1,4 @@
-#Comprehensive Guide
+# Comprehensive Guide
 
 
 
@@ -28,6 +28,10 @@ A Distributed Version Control systems (DVCS) addresses the major vulnerability o
 If a CVS goes down, collaborators cannot work with each other on a file or save changes and new versions. 
 Also, in the event of corruption of a central database’s hard disk — with the absence of backups — all work will be lost, except for any portions on local machines.
 
-To prevent this type of catastrophic loss, a DVCS allows clients to create mirrored repositories. 
-These data backups can be easily be placed on the server to replace any lost information.
+
+**To know more about [Version Control](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)**
+
+**[Main Page](https://khasawneh07.github.io/reading-notes/)**
+
+
 
