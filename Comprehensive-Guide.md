@@ -31,7 +31,7 @@ Also, in the event of corruption of a central database’s hard disk — with th
 
 **To know more about [Version Control](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)**
 
-**[Main Page](https://khasawneh07.github.io/reading-notes/)**
+**[Main Page](https://khasawneh07.github.io/reading-notes)**
 
 
 
