@@ -10,6 +10,11 @@
 
 **Your Better Chance To Train Your Brain**
 
+**Be a professional coder with us**
+
 **[Lets Start](https://khasawneh07.github.io/reading-notes/growth-mindset)**
 
-
+Table of content
+1. Growth Mindset
+1. Comprehensive Guide
+1. Mastering Markdown
