@@ -15,6 +15,6 @@
 **[Lets Start](https://khasawneh07.github.io/reading-notes/growth-mindset)**
 
 Table of content
-**1.[ Growth Mindset](https://khasawneh07.github.io/reading-notes/growth-mindset)
-**1.[Comprehensive Guide](https://khasawneh07.github.io/reading-notes/Mastering-Markdown)
-**1.[Mastering Markdown](https://khasawneh07.github.io/reading-notes/Comprehensive-Guide)
+**[1.Growth Mindset](https://khasawneh07.github.io/reading-notes/growth-mindset)
+**[1.Comprehensive Guide](https://khasawneh07.github.io/reading-notes/Mastering-Markdown)
+**[1.Mastering Markdown](https://khasawneh07.github.io/reading-notes/Comprehensive-Guide)
