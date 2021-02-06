@@ -14,8 +14,17 @@
 
 **[Lets Start](https://khasawneh07.github.io/reading-notes/growth-mindset)**
 
+> 102 Reading Notes 
+
 #|Read Name
 -|----------
 1st | [Growth Mindset](https://khasawneh07.github.io/reading-notes/growth-mindset)
 2nd | [Comprehensive Guide](https://khasawneh07.github.io/reading-notes/Mastering-Markdown)
 3rd | [Mastering Markdown](https://khasawneh07.github.io/reading-notes/Comprehensive-Guide)
+
+**********************************************************************************************
+> 201 Reading Notes 
+
+#|Read Name
+-|----------
+1st | 
