@@ -28,4 +28,4 @@
 #|Read Name
 -|----------
 1st | [Pre Read](https://khasawneh07.github.io/reading-notes/Pre-Read)
-2nd | [Read-2](https://khasawneh07.github.io/reading-notes/Read-2)
+2nd | [Read 2](https://khasawneh07.github.io/reading-notes/Read-2)
