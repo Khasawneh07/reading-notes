@@ -27,5 +27,5 @@
 
 #|Read Name
 -|----------
-1st | [Pre Read](https://github.com/Khasawneh07/reading-notes/blob/main/Pre%20Read.md)
-2nd | [Read-2](https://github.com/Khasawneh07/reading-notes/blob/main/Read-2)
+1st | [Pre Read](https://khasawneh07.github.io/reading-notes/Pre-Read)
+2nd | [Read-2](https://khasawneh07.github.io/reading-notes/Read-2)
