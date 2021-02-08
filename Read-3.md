@@ -26,4 +26,19 @@ You can set several properties that affect the appearance of these boxes.
 - Legibility can be improved by controlling the width of boxes containing text and the leading.
 - CSS3 has introduced the ability to create image borders and rounded borders.
 
+Chapter 2: Basic JavaScript Instructions
+
+An array is a special type of variable. It doesn't just store one value; it stores a list of values.
+
+Arrays are special types of variables that store more than one piece of related information.
+
+
 Chapter 4: Decisions and Loops
+
+A switch statement starts with avariable called the switch value.
+Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
+
+- switch statements allow you to compare a value against possible outcomes (and also provides a default option if none match).
+- Data types can be coerced from one type to another.
+- All values evaluate to either truthy or falsy.
+- There are three types of loop: for, while, and do ... while. Each repeats a set of statements.
