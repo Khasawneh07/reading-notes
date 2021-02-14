@@ -32,3 +32,5 @@
 3nd | [Read 3](https://khasawneh07.github.io/reading-notes/Read-3)
 4th | [Read 4](https://khasawneh07.github.io/reading-notes/Read-4)
 5th | [Read 5](https://khasawneh07.github.io/reading-notes/Read-5)
+6th | [Read 6](https://khasawneh07.github.io/reading-notes/Read-6)
+7th | [Read 7](https://khasawneh07.github.io/reading-notes/Read-7)
