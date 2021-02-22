@@ -38,3 +38,4 @@
 9th | [Read 9](https://khasawneh07.github.io/reading-notes/Read-9)
 10th | [Read 10](https://khasawneh07.github.io/reading-notes/Read-10)
 11th | [Read 11](https://khasawneh07.github.io/reading-notes/Read-11)
+12th | [Read 12](https://khasawneh07.github.io/reading-notes/Read-12)
