@@ -41,3 +41,5 @@
 12th | [Read 12](https://khasawneh07.github.io/reading-notes/Read-12)
 13th | [Read 13](https://khasawneh07.github.io/reading-notes/Read-13)
 14th | [Read 14](https://khasawneh07.github.io/reading-notes/Read-14)
+15th | [Read 15](https://khasawneh07.github.io/reading-notes/Read-15)
+
